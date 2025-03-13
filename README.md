@@ -38,3 +38,5 @@ I'm **The Holy Cow** - a backend sorcerer who conjures powerful backend magic an
 ---
 
 *When not in the digital dungeons, you'll find me debugging ancient tomes and optimizing real-world workflows.*
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-brightgreen?logo=buymeacoffee)](https://www.buymeacoffee.com/armysarge)
