@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hello World! I'm Bjorkus the Minotaur Cleric 🐂⚔️
 
 > *"Clean code isn't written by chance; it's crafted through dedication, refined through experience, and perfected through passion."*
@@ -39,4 +38,3 @@ I'm **The Holy Cow** - a backend sorcerer who conjures powerful backend magic an
 ---
 
 *When not in the digital dungeons, you'll find me debugging ancient tomes and optimizing real-world workflows.*
-```
