@@ -1,16 +1,42 @@
-## Hi there 👋
+```markdown
+# 👋 Hello World! I'm Bjorkus the Minotaur Cleric 🐂⚔️
 
-<!--
-**armysarge/armysarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Clean code isn't written by chance; it's crafted through dedication, refined through experience, and perfected through passion."*
 
-Here are some ideas to get you started:
+## 🧙‍♂️ Who Am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **The Holy Cow** - a backend sorcerer who conjures powerful backend magic and a frontend enchanter when duty calls. I specialize in banishing bugs and brewing clean code, crafting elegant logic that shapes our digital realms.
+
+## 💻 Tech Arsenal
+
+### Backend Magic (Primary Focus)
+- 🐍 Python
+- 🔷 C#
+- 🟨 JavaScript, NodeJS
+- ⚙️ API Design & Development
+- 🤖 AI & Machine Learning
+
+### Frontend Enchantments
+- 🌐 HTML
+- 🎨 CSS, React
+- 📱 Android Development
+
+## 🔮 Current Quests
+
+- 🤖 Exploring AI projects and expanding my spellbook
+- 🔌 Tinkering with electronics to bridge digital and physical realms
+- 🧪 Brewing the cleanest code in the land
+
+## 🏰 My Digital Kingdom
+
+- 🌐 Website: [armysarge.co.za](https://armysarge.co.za)
+- 📬 Contact: [armysarge.ss@gmail.com](mailto:armysarge.ss@gmail.com)
+
+## ⚔️ Battle Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armysarge&show_icons=true&theme=dark)
+
+---
+
+*When not in the digital dungeons, you'll find me debugging ancient tomes and optimizing real-world workflows.*
+```
