@@ -35,6 +35,9 @@ I'm **The Holy Cow** - a backend sorcerer who conjures powerful backend magic an
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armysarge&show_icons=true&theme=dark)
 
+## 📡 Off-Grid Communications
+- 📻 Radio Amateur with callsign ZS6SHZ
+
 ---
 
 *When not in the digital dungeons, you'll find me debugging ancient tomes and optimizing real-world workflows.*
